@@ -35,22 +35,23 @@ Clustering methodologies:
 Machine Learning methodologies:
 
 -   Support Vector Machines
--   Decision Trees Random Forest
+-   Decision Trees /Random Forest
 -   XGBoost models
 -   Bayesian Networks
 -   KNN
 -   Long Short-Term Network (LSTM)
 -   Conventional Neural Network (CNN)
 -   Sentiment Analysis (NLP)
+-   ...
 
 Others:
 
 -   Missing Data and Imputation
--   Cross-validation
 -   Bootstrapping and Jackknife Estimation
--   Principal Component Analysis
--   Independent Component Analysis
+-   Conformal Predictors*
 -   ...
+
+* indicate state of art in AI and Statistical/Mathematical modeling.
 
 ::: callout-note
 You are free to propose a **topic** if there is something you are interested in but is missing from the list. The instructor must approve the methodology to ensure that it meets the expectations of a capstone project.
