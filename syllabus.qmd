@@ -81,9 +81,11 @@ posted on Canvas. Lectures will be recorded and posted on Canvas.
 
 The course grade will be determined as follows:
 
--   Quizzes Project Progress (#6): 60%
+-   Quizzes Project Progress: 30%
 -   Oral Presentation - Slides (#1): 20%
--   Final Paper Project (#1): 20%
+-   Final Paper Project (#1): 50%
+
+Final grades will be assigned as S (Satisfactory) or U (Unsatisfactory).
 
 ## Grade Distribution
 
