@@ -35,19 +35,19 @@ This course will provide you with an opportunity to apply the knowledge and skil
 | **Week** | **Day**\* | **Topic(s)**                             | **Action**                                                               |
 |:-----------:|:-----------:|-----------------------|:-----------------------|
 |    1     |     1     | Intro to GitHub / RStudio / Quarto       | Do Practice + Pick a Topic/Group                                         |
-|          |     2     | Pick a Topic + Practice **(no meeting**) | Pick a Topic/Group                                                       |
+|          |     2     | Pick a Topic **(no meeting**) | Pick a Topic/Group                                                       |
 |    2     |     1     | **Individual** research                  | Read and summarize research papers; Create **Individual** GitHub Website |
 |          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Create **Individual** GitHub Website |
-|    3     |     1     | **Individual** research                  | Read and summarize research papers; Add them to GitHub Website           |
-|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Add them to GitHub Website           |
-|    4     |     1     | **Individual** research                  | Read and summarize research papers + polish writing on GitHub Website    |
-|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers + polish writing on GitHub Website    |
-|    5     |     1     | **Team** research                        | write the introduction/literature review                                 |
-|          |     2     | **Team** research (no meeting)           | write the introduction/literature review                                 |
-|    6     |     1     | **Team** research                        | polish the introduction/literature review + pick a data set              |
-|          |     2     | **Team** research (no meeting)           | polish the introduction/literature review + pick a data set              |
-|    7     |     1     | **Team** research                        | analysis and results                                       |
-|          |     2     | **Team** research (no meeting)           | analysis and results                                       |
+|    3     |     1     | **Individual** research                  | Read and summarize research papers + polish writing on GitHub Website    |
+|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers + polish writing on GitHub Website           |
+|    4     |     1     | **Team** research                        | write the introduction/literature review + pick a data set     |
+|          |     2     | **Team** research (no meeting)           | write the introduction/literature review + pick a data set     |
+|    5     |     1     | **Team** research                        | write Methods section               |
+|          |     2     | **Team** research (no meeting)           | write Methods section                |
+|    6     |     1     | **Team** research                        | analysis and results (including EDA)             |
+|          |     2     | **Team** research (no meeting)           | analysis and results (including EDA)               |
+|    7     |     1     | **Team** research                        | analysis and results (including EDA)                                      |
+|          |     2     | **Team** research (no meeting)           | slide prep                                       |
 |    8     |     1     | Oral Presentations                       | Presentation                                                             |
 |          |     2     | Oral Presentations                       | Presentation                                                             |
 |    8     |           | Final paper + slides due                 |                                                                          |
