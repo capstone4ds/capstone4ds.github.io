@@ -84,7 +84,7 @@
     "href": "syllabus.html#grading-and-evaluation",
     "title": "IDC 6940 - Capstone Projects in Data Science",
     "section": "Grading and Evaluation",
-    "text": "Grading and Evaluation\nThe course grade will be determined as follows:\n\nQuizzes Project Progress (#6): 60%\nOral Presentation - Slides (#1): 20%\nFinal Paper Project (#1): 20%",
+    "text": "Grading and Evaluation\nThe course grade will be determined as follows:\n\nQuizzes Project Progress: 30%\nOral Presentation - Slides (#1): 20%\nFinal Paper Project (#1): 50%\n\nFinal grades will be assigned as S (Satisfactory) or U (Unsatisfactory).",
     "crumbs": [
       "Syllabus"
     ]
@@ -135,16 +135,6 @@
     "title": "IDC 6940 - Capstone Projects in Data Science",
     "section": "",
     "text": "This course will provide you with an opportunity to apply the knowledge and skills that you have gained in the program. The capstone project will allow student to gain experience in data wrangling, data visualization, statistical modeling, machine learning, reporting, and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers.",
-    "crumbs": [
-      "Home / Schedule"
-    ]
-  },
-  {
-    "objectID": "index.html#ongoing-projects-spring-2024",
-    "href": "index.html#ongoing-projects-spring-2024",
-    "title": "IDC 6940 - Capstone Projects in Data Science",
-    "section": "Ongoing Projects (Spring 2024):",
-    "text": "Ongoing Projects (Spring 2024):\n\nTBD",
     "crumbs": [
       "Home / Schedule"
     ]
