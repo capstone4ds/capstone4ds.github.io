@@ -84,7 +84,7 @@
     "href": "syllabus.html#grading-and-evaluation",
     "title": "IDC 6940 - Capstone Projects in Data Science",
     "section": "Grading and Evaluation",
-    "text": "Grading and Evaluation\nThe course grade will be determined as follows:\n\nQuizzes Project Progress: 30%\nOral Presentation - Slides (#1): 20%\nFinal Paper Project (#1): 50%\n\nFinal grades will be assigned as S (Satisfactory) or U (Unsatisfactory).",
+    "text": "Grading and Evaluation\nThe course grade will be determined as follows:\n\nQuizzes Project Progress (#6): 60%\nOral Presentation - Slides (#1): 20%\nFinal Paper Project (#1): 20%",
     "crumbs": [
       "Syllabus"
     ]
@@ -140,21 +140,21 @@
     ]
   },
   {
-    "objectID": "index.html#ongoing-projects-summer-2025",
-    "href": "index.html#ongoing-projects-summer-2025",
+    "objectID": "index.html#ongoing-projects-spring-2024",
+    "href": "index.html#ongoing-projects-spring-2024",
     "title": "IDC 6940 - Capstone Projects in Data Science",
-    "section": "Ongoing Projects (Summer 2025):",
-    "text": "Ongoing Projects (Summer 2025):\n\nTBD",
+    "section": "Ongoing Projects (Spring 2024):",
+    "text": "Ongoing Projects (Spring 2024):\n\nTBD",
     "crumbs": [
       "Home / Schedule"
     ]
   },
   {
-    "objectID": "index.html#schedule-summer-8-weeks",
-    "href": "index.html#schedule-summer-8-weeks",
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
     "title": "IDC 6940 - Capstone Projects in Data Science",
-    "section": "Schedule SUMMER (8 Weeks)",
-    "text": "Schedule SUMMER (8 Weeks)\n*Day indicates class meeting days of the week .\n\n\n\n\n\n\n\n\n\nWeek\nDay*\nTopic(s)\nAction\n\n\n\n\n1\n1\nIntro to GitHub / RStudio / Quarto\nDo Practice + Pick a Topic/Group\n\n\n\n2\nPick a Topic (no meeting)\nPick a Topic/Group\n\n\n2\n1\nIndividual research\nRead and summarize research papers; Create Individual GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers; Create Individual GitHub Website\n\n\n3\n1\nIndividual research\nRead and summarize research papers + polish writing on GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers + polish writing on GitHub Website\n\n\n4\n1\nTeam research\nwrite the introduction/literature review + pick a data set\n\n\n\n2\nTeam research (no meeting)\nwrite the introduction/literature review + pick a data set\n\n\n5\n1\nTeam research\nwrite Methods section\n\n\n\n2\nTeam research (no meeting)\nwrite Methods section\n\n\n6\n1\nTeam research\nanalysis and results (including EDA)\n\n\n\n2\nTeam research (no meeting)\nanalysis and results (including EDA)\n\n\n7\n1\nTeam research\nanalysis and results (including EDA)\n\n\n\n2\nTeam research (no meeting)\nslide prep\n\n\n8\n1\nOral Presentations\nPresentation\n\n\n\n2\nOral Presentations\nPresentation\n\n\n8\n\nFinal paper + slides due",
+    "section": "Schedule",
+    "text": "Schedule\n*Day indicates class meeting days of the week .\n\n\n\n\n\n\n\n\n\nWeek\nDay*\nTopic(s)\nAction\n\n\n\n\n1\n1\nIntro to GitHub / RStudio / Quarto\nDo Practice + Pick a Topic/Group\n\n\n\n2\nPick a Topic + Practice (no meeting)\nPick a Topic/Group\n\n\n2\n1\nIndividual research\nRead and summarize research papers; Create Individual GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers; Create Individual GitHub Website\n\n\n3\n1\nIndividual research\nRead and summarize research papers; Add them to GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers; Add them to GitHub Website\n\n\n4\n1\nIndividual research\nRead and summarize research papers + polish writing on GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers + polish writing on GitHub Website\n\n\n5\n1\nTeam research\nwrite the introduction/literature review\n\n\n\n2\nTeam research (no meeting)\nwrite the introduction/literature review\n\n\n6\n1\nTeam research\npolish the introduction/literature review + pick a data set\n\n\n\n2\nTeam research (no meeting)\npolish the introduction/literature review + pick a data set\n\n\n7\n1\nTeam research\ndata description and visualization\n\n\n\n2\nTeam research (no meeting)\ndata description and visualization\n\n\n8\n1\nTeam research\nwrite the method section\n\n\n\n2\nTeam research (no meeting)\nwrite the method section\n\n\n9\n1\nTeam research\nwrite the method section\n\n\n\n2\nTeam research (no meeting)\nwrite the method section\n\n\n10\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n11\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n12\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n13\n1\nTeam research\n1st draft + slides preparation\n\n\n\n2\nTeam research (no meeting)\n1st draft + slides preparation\n\n\n14\n1\nTeam research\nFeedback\n\n\n\n2\nTeam research (no meeting)\n\n\n\n15\n1\nOral Presentations\nPresentation\n\n\n\n2\nOral Presentations\nPresentation\n\n\n16\n\nFinal paper + slides due",
     "crumbs": [
       "Home / Schedule"
     ]
